@@ -1,5 +1,0 @@
-# Organization
-
-Sit elit veniam laborum id veniam pariatur occaecat deserunt qui velit est qui culpa laborum commodo. Dolor nulla incididunt ipsum tempor. Sint veniam excepteur duis minim. Adipisicing Lorem nisi duis ad aliqua est commodo laborum duis nostrud exercitation. Ut adipisicing officia minim ad reprehenderit ad reprehenderit in. Do est tempor tempor sunt.
-
-Aliqua nulla commodo reprehenderit. Mollit laborum reprehenderit elit occaecat. Laborum elit id irure minim sit commodo eu laborum. Proident voluptate laborum fugiat nisi. Qui ipsum dolore aliqua eu cupidatat cillum reprehenderit pariatur. Ea consequat in enim commodo cupidatat. Ad adipisicing velit labore non elit adipisicing voluptate ex adipisicing ullamco Lorem. Nulla duis consectetur incididunt excepteur tempor ullamco Lorem commodo. Anim veniam tempor magna voluptate anim est commodo eiusmod.
