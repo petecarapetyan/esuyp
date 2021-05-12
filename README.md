@@ -1,40 +1,7 @@
-# rocket-template
-Template for starting out a rocket SSG project, pete-style
+# esuyp demo project
 
-## stuff I did to create this
+This repo is a personalized/customized version of the [not-apnews fins-rocket-theme](https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-apnews/src/docs/) code.
 
-- started out with project created in github new project wizard
-  - chose MIT for license
-  - chose Node for .gitignore
-  - chose Add a README file
-- git cloned into my local
-- followed instructions on Rocket Getting Started guide:
-  - `npm install --save-dev @d4kmor/cli @d4kmor/launch`
-  - added contents to .gitignore
-  - created rocket.config.mjs file with appropriate contents
-  - created docs/index.md
-- copied _merged... files into docs
-  - renamed by removing merged from name
-  - inspected each file manually and made changes
-    - practically everything in `docs/_data/site.cjs`
-- replaced 'rocket' with 'yada' wherever appropriate
+## For more information on fins-rocket-themes
 
-## TODO:
-
-- see waw README
-- see site url .cjs netlify stuff for how to integrate that
-- how does dark mode work?
-- separate sections on deployments to 
-   - netlify
-   - firebase
-   - straight scp
-   - github actions
-- string search list:
-   - yada
-   - foo
-   - bar
-   - [css vars]
-- images
-   - various icons++
-   - social media image
-   - `summary_large_image`
+This and other `fins-rocket-themes` are discussed [here](https://webappwriter.com/rocket-themes/) in more detail.
